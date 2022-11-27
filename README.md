@@ -26,5 +26,5 @@ With some customizations I applied this framework to gray-scale CT images in ord
 
 
 ![image](https://user-images.githubusercontent.com/81852029/204155340-e74f426a-3818-47f0-9687-999e6cc73f1d.png)
-![image](https://user-images.githubusercontent.com/81852029/204155341-abf8aa3b-e8a9-49c4-873d-b106eb46b3f4.png)
+![image](https://user-images.githubusercontent.com/81852029/204155776-c94e7c37-c9e5-4e49-97fa-bb2be55d2b96.png)
 
