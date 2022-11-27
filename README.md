@@ -1,6 +1,4 @@
-This project was based on the Superpixel Sampling Networks (SSN) https://github.com/perrying/ssn-pytorch
-
-PyTorch implementation of Superpixel Sampling Networks
+This project was based on the PyTorch implementation of Superpixel Sampling Networks (SSN) https://github.com/perrying/ssn-pytorch
 
 paper: https://arxiv.org/abs/1807.10174
 
