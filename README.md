@@ -5,7 +5,7 @@ paper: https://arxiv.org/abs/1807.10174
 original code: https://github.com/NVlabs/ssn_superpixels
 
 
-With some customizations I applied this framework to gray-scale CT images in order to apply automatic segmentation to aorta and arteries. 
+With some customizations I applied this framework to gray-scale CT images in order to apply automatic segmentation for aorta and arteries. 
 
 # REQUIREMENTS
 1. PyTorch >= 1.4
