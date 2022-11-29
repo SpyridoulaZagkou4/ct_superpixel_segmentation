@@ -13,6 +13,12 @@ With some customizations I applied this framework to gray-scale CT images in ord
 3. matplotlib
 
 # USAGE
+## inference
+python inference.py --image ~/Downloads/Self-supervised-Fewshot-Medical-Image-Segmentation/Unsupervised_Superpixels/ArteriesCT/inferenc
+e_image/my_check_img.nii.gz --weight ~/Downloads/ssn-pytorch/log/model1645611288.pth
+
+## train 
+python train.py --root ~/Downloads/Self-supervised-Fewshot-Medical-Image-Segmentation/Unsupervised_Superpixels/ArteriesCT/
 
 
 # RESULTS
