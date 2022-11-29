@@ -7,7 +7,8 @@ original code: https://github.com/NVlabs/ssn_superpixels
 With some customizations I applied this framework to gray-scale CT images in order to apply automatic segmentation for aorta and arteries. 
 
 ### steps
-First run 
+First run ```felzenswalb.py``` script in the label_production folder to extract enhanced segmentations and then run ```correct_labels.py``` to assure that ROIs are correct. Then you have to run ```preprocessing.py``` script in lib\dataset forder to save imager to .npy format. Finally you are ready to train and test your model. 
+(see usage below).
 
 # REQUIREMENTS
 1. PyTorch >= 1.4
