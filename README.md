@@ -11,6 +11,10 @@ With some customizations I applied this framework to gray-scale CT images in ord
 1. PyTorch >= 1.4
 2. scikit-image
 3. matplotlib
+4. nibabel
+5. numpy
+6. scipy
+7. skimage
 
 # USAGE
 ## inference
