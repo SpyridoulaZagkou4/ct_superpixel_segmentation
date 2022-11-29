@@ -4,6 +4,7 @@ This project was based on the PyTorch implementation of Superpixel Sampling Netw
 paper: https://arxiv.org/abs/1807.10174
 
 original code: https://github.com/NVlabs/ssn_superpixels
+
 With some customizations I applied this framework to gray-scale CT images in order to apply automatic segmentation for aorta and arteries. 
 
 ### steps
@@ -18,6 +19,10 @@ First run ```felzenswalb.py``` script in the label_production folder to extract 
 5. numpy
 6. scipy
 7. skimage
+
+I run the code to Windows machine system and I had installed WSL to embed linux system that is suggested from the original code.
+* cuda required
+* ninja required
 
 # USAGE
 ## inference
