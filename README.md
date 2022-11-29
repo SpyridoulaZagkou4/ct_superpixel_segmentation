@@ -30,7 +30,6 @@ python train.py --root ~/Downloads/Self-supervised-Fewshot-Medical-Image-Segment
 
 
 
-
-![image](https://user-images.githubusercontent.com/81852029/204475697-d145f45c-60eb-400f-98e6-e58e89db3b80.png)
-![image](https://user-images.githubusercontent.com/81852029/204475728-b360aca0-acce-4ea0-8a3c-a85eadab2545.png)
+![image](https://user-images.githubusercontent.com/81852029/204475836-136187c9-8e75-4f85-89d7-21bbd89e056e.png)
+![image](https://user-images.githubusercontent.com/81852029/204475859-ce04784c-680d-4257-8ea5-88b196344ecd.png)
 
