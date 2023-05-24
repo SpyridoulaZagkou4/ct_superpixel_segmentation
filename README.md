@@ -1,3 +1,8 @@
+# DESCRIPTION
+
+Development of a deep superpixel-based graph cut network for weakly supervised semantic segmentation of 3D CT images. Training of Deep Neural Networks (U-Net encoder) to extract biomedical image features, applying a KMeans-type algorithm by averaging these features to initialize super-pixel centers and then recalculating them iteratively using association map distance among neighboring (super)pixels
+
+
 ### reference
 This project was based on the PyTorch implementation of Superpixel Sampling Networks (SSN) https://github.com/perrying/ssn-pytorch
 
